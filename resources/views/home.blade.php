@@ -1,5 +1,5 @@
 @extends('template.user')
-
+test
 @section('title')
     Profile
 @endsection
