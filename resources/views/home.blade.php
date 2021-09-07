@@ -1,5 +1,9 @@
 @extends('template.user')
+<<<<<<< Updated upstream
 
+=======
+test lagi
+>>>>>>> Stashed changes
 @section('title')
     Profile
 @endsection
